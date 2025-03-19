@@ -1,5 +1,3 @@
-#The provided project is a voice-enabled Mood Analyzer application that utilizes speech recognition to capture daily mood input, performs sentiment analysis, and visually represents mood data, offering real-time updates and insights into users' weekly emotional trends.
-#Made By Riza,Habil,Rihan
 
 import speech_recognition as sr
 import tkinter as tk
